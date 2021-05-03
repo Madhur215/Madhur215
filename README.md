@@ -2,9 +2,8 @@
 <h1 align="center">Hey there, I'm Madhur Vashistha <img src="./gif/Hi.gif" width="30px"></h1>
 <h3 align="center">Competitive Programmer 👨‍💻 | Android Developer 📱 | Computer Science Geek 💻</h3>
 <!-- <img align="center" src = "./gif/keyboard.gif" style="max-width:100%;" class="center" /> -->
-<div style="text-align:center"><img src = "./gif/keyboard.gif" style="max-width:100%;" /></div>
+<div align="center"><img src = "./gif/keyboard.gif" style="max-width:100%;" /></div>
 <br/>
-
 <h3>📫 Lets Connect 🤝</h3>
 <a href="https://www.linkedin.com/in/madhur-vashistha-6217a0181/">
   <img align="left" alt="Linkdein" height="40" width="40" src="./svgs/linkedin.svg" />
