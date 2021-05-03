@@ -9,15 +9,18 @@
 <a href="https://www.instagram.com/max.madhur/">
   <img align="left" alt="Instagram"height="40" width="40" src="./svgs/instagram.svg" />
 </a>
-<br/>
-
 <a href="mailto:vashistha.madhur2@gmail.com"> 
     <img align="left" alt="Gmail" height="40" width="40" src="./svgs/gmail.svg" />
 </a>
+<br/>
+<br/>
 
 <h3>🔭 Have a look at my work 👇</h3>
 <a href="https://github.com/Madhur215">
   <img alt="Github" width="28px" src="./pngs/github.png" />
+</a>
+<a href="https://auth.geeksforgeeks.org/user/vashisthamadhur2/articles">
+    <img align="left" alt="GeeksforGeeks" width="28px" src="./svgs/gfg.svg">
 </a>
 <br/>
 
