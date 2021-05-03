@@ -1,7 +1,9 @@
 <!-- ### Hi there 👋 -->
 <h1 align="center">Hey there, I'm Madhur Vashistha <img src="./gif/Hi.gif" width="30px"></h1>
-<h3 align="center">Competitive Progammer 👨‍💻 | Android Developer 📱 | Computer Science Geek 💻</h3>
-<img src = "./pngs/banner.png" style="max-width:100%;"/>
+<h3 align="center">Competitive Programmer 👨‍💻 | Android Developer 📱 | Computer Science Geek 💻</h3>
+<!-- <img src = "./pngs/banner.png" style="max-width:100%;"/>
+ -->
+ <div style="width:100%;height:0;padding-bottom:65%;position:relative;"><iframe src="https://giphy.com/embed/RJVw6tIfb2dIwTHFb0" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/NeighborlyNotaryNYC-congrats-man-office-dispassionate-RJVw6tIfb2dIwTHFb0">via GIPHY</a></p>
 <h3>📫 Lets Connect 🤝</h3>
 <a href="https://www.linkedin.com/in/madhur-vashistha-6217a0181/">
   <img align="left" alt="Linkdein" height="40" width="40" src="./svgs/linkedin.svg" />
@@ -17,7 +19,7 @@
 
 <h3>🔭 Have a look at my work 👇</h3>
 <a href="https://github.com/Madhur215">
-  <img alt="Github" width="28px" src="./pngs/github.png" />
+  <img alt="Github" width="28px" src="./svgs/github_white.svg" />
 </a>
 <a href="https://auth.geeksforgeeks.org/user/vashisthamadhur2/articles">
     <img align="left" alt="GeeksforGeeks" width="28px" src="./svgs/gfg.svg">
@@ -46,8 +48,6 @@
 
 <img align="left" alt="VS Code" width="40" height="40" src="./svgs/vs.svg" />
 
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
