@@ -1,12 +1,12 @@
 <!-- ### Hi there 👋 -->
 <h1 align="center">Hey there, I'm Madhur Vashistha <img src="./gif/Hi.gif" width="30px"></h1>
-<h3 align="center">A Passionate Developer 👨‍💻 | Maker 🤹‍♂️ | Designer 👨‍🎨</h3>
+<h3 align="center">Competitive Progammer 👨‍💻 | Android Developer 📱 | Computer Science Geek 💻</h3>
 <img src = "./pngs/banner.png" style="max-width:100%;"/>
 <h3>📫 Lets Connect 🤝</h3>
 <a href="https://www.linkedin.com/in/madhur-vashistha-6217a0181/">
   <img align="left" alt="Linkdein" width="28px" src="./svgs/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/Madhur215/">
+<a href="https://www.instagram.com/max.madhur/">
   <img align="left" alt="Instagram" width="28px" src="./svgs/instagram.svg" />
 </a>
 <br/>
@@ -19,7 +19,7 @@
 
 <h3>🌱 Have a look at my coding profiles 👇</h3>
 <a href="https://codeforces.com/profile/Madhur_V">
-	<img align="left" alt="Codeforces" width="54px" src="./svgs/codeforces.svg" />
+	<img align="left" alt="Codeforces" width="74px" height="54px" src="./svgs/codeforces.svg" />
 </a>
 <a href="https://www.hackerrank.com/madhur_miracle11">
   <img align="left" alt="Hackerrank" width="28px" src="./svgs/hackerrank.svg" />
