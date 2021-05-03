@@ -4,12 +4,16 @@
 <img src = "./pngs/banner.png" style="max-width:100%;"/>
 <h3>📫 Lets Connect 🤝</h3>
 <a href="https://www.linkedin.com/in/madhur-vashistha-6217a0181/">
-  <img align="left" alt="Linkdein" width="28px" src="./svgs/linkedin.svg" />
+  <img align="left" alt="Linkdein" height="40" width="40" src="./svgs/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/max.madhur/">
-  <img align="left" alt="Instagram" width="28px" src="./svgs/instagram.svg" />
+  <img align="left" alt="Instagram"height="40" width="40" src="./svgs/instagram.svg" />
 </a>
 <br/>
+
+<a href="mailto:vashistha.madhur2@gmail.com"> 
+    <img align="left" alt="Gmail" height="40" width="40" src="./svgs/gmail.svg" />
+</a>
 
 <h3>🔭 Have a look at my work 👇</h3>
 <a href="https://github.com/Madhur215">
@@ -19,45 +23,35 @@
 
 <h3>🌱 Have a look at my coding profiles 👇</h3>
 <a href="https://codeforces.com/profile/Madhur_V">
-	<img align="left" alt="Codeforces" width="74px" height="46px" src="./svgs/codeforces.svg" />
+	<img align="left" alt="Codeforces" width="64px" height="42px" src="./svgs/codeforces.svg" />
 </a>
 <a href="https://www.codechef.com/users/madhur215">
-	<img align="left" alt="Codechef" width="74px" height="32px" src="./svgs/codechef.svg" />
+	<img align="left" alt="Codechef" width="64px" height="32px" src="./svgs/codechef.svg" />
 </a>
 <a href="https://www.hackerrank.com/madhur_miracle11">
-  <img align="left" alt="Hackerrank" width="28px" src="./svgs/hackerrank.svg" />
+  <img align="left" alt="Hackerrank" width="32px" src="./svgs/hackerrank.svg" />
 </a>
 <br/>
 <br/>
 
 <h2> ✔️ Skills: </h2>
-<img align="left" alt="C++" width="28px" src="./svgs/c.svg" />
-<img align="left" alt="Android" width="28px" src="./svgs/android_studio.svg" />
+<img align="left" alt="C++" width="40" height="40" src="./svgs/c.svg" />
+<img align="left" alt="Android" width="40px" height="40" src="./svgs/android_studio.svg" />
 <img align="left" alt="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <img align="left" alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 <img align="left" alt="Python"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 
-<img align="left" alt="VS Code" width="28px" src="./svgs/vs.svg" />
+<img align="left" alt="VS Code" width="40" height="40" src="./svgs/vs.svg" />
 
 <br/>
 <br/>
 <br/>
 <br/>
 <br/>
-
-<!-- <a href="https://github.com/Madhur215">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Madhur215&show_icons=true&theme=gotham&line_height=27" alt="Madhur's github stats"/>
-<br/>
-<br/>
-<br/> -->
 
 <h2>👯 Visitor's count :eyes:</h2>
 
 <p><img src="https://profile-counter.glitch.me/{Madhur215}/count.svg" alt="Madhur's :: Visitor's Count" /></p>
-
-<h2>⚡ Top langs :tongue:</h2>
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhur215&langs_count=10&theme=tokyonight&layout=compact" alt="Madhur's :: Top Langs" /></p>
 
 <br/>
 <br/>
